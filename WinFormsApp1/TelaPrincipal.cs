@@ -5,6 +5,8 @@ namespace WinFormsApp1
 {
     public partial class TelaPrincipal : Form
     {
+
+        /*O que está comentado é utilizando outra implementação (M2Mqtt) */
         //private MqttClient _mqttClient;
         private string _nomeAplicacao = "chat_1";
         private string _nomeAplicacaoResposta = "chat_2";
